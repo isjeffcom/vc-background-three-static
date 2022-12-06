@@ -1,1 +1,0 @@
-# vc-background-three-static
